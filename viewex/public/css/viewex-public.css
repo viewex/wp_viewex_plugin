@@ -1,0 +1,105 @@
+#counterbox .element-size-25 {
+    width: 33.555%;
+    text-align: center;
+}
+
+#counterbox .element-size-33 {
+    text-align: center;
+}
+
+.cs-banner .tp-caption.medium.small {
+    color: white;
+    font-size: 20px;
+}
+
+.page-id-1354 .cs-image img {
+    margin: 0 !important;
+}
+
+#offer-prices .element-size-25 {
+    width: 50%;
+}
+
+#offer-prices .cs-section-title h2 {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    font-size: 2em !important;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    background-color: #5c656b;
+    color: #fff !important;
+    width: 280px;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+#offer-price-1 .cs-section-title h2 {
+    left: 55%;
+}
+
+#offer-price-2 .cs-section-title h2 {
+    left: 45%;
+}
+
+#offer-prices .cs-unorderedlist li:nth-child(1) {
+    color: #00afef;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+#offer-prices .cs-unorderedlist li:nth-child(2) {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#offer-prices .cs-unorderedlist li:nth-child(3) {
+    text-align: center;
+    border: 2px solid #00afef;
+    color: #00afef;
+    width: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    font-size: 1.4em;
+    padding: 2px 0;
+    margin-bottom: 40px;
+}
+
+#offer-prices .cs-unorderedlist li:nth-child(n + 4) {
+    background: #c9ebfc;
+    text-align: center;
+    padding: 2px 0;
+    font-size: 1.1em;
+}
+
+#offer-prices .cs-unorderedlist li:nth-child(4) {
+    padding-top: 10px;
+}
+
+#offer-prices .liststyle {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding-top: 20px;
+    width: 280px;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+#offer-price-1 .liststyle {
+    left: 55%;
+}
+
+#offer-price-2 .liststyle {
+    left: 45%;
+}
+
+#offer-prices .cs-unorderedlist li:last-of-type {
+    padding-bottom: 10px;
+}
+
+.cs-numcount {
+    color: #5c656b !important;
+}
